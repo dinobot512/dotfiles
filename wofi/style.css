@@ -1,0 +1,29 @@
+window {
+	background-color: #141414;
+	color: #eeeeee;
+	font-family: Terminess Nerd Font Mono;
+	font-size: 16px;
+}
+
+#input {
+	border-radius: 1px;
+	background-color: #222222;
+	color: #eeeeee;
+}
+
+#input:focus {
+	box-shadow: 0px 0px 0px 1px #ffffff inset;
+	border: none;
+}
+
+#entry:selected {
+	background-color: #004400;
+}
+
+#inner-box {
+	background-color: #141414;
+}
+
+#outer-box {
+	border: 5px solid #252525;
+}
